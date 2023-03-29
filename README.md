@@ -7,7 +7,7 @@ Installation
 To use this calculator, simply clone the repository to your local machine using the command:
 git clone https://github.com/harshitdixit803/basic-calculator.git
 
-Usage
+
 To run the calculator, navigate to the project directory on your local machine and run the command:
 
 kotlinc calculator.kt -include-runtime -d calculator.jar
