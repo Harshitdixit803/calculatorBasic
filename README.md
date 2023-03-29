@@ -5,7 +5,7 @@ This is a simple calculator program that allows users to add, subtract, multiply
 Installation
 
 To use this calculator, simply clone the repository to your local machine using the command:
-git clone https://github.com/your-username/basic-calculator.git
+git clone https://github.com/harshitdixit803/basic-calculator.git
 
 Usage
 To run the calculator, navigate to the project directory on your local machine and run the command:
